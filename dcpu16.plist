@@ -8,7 +8,7 @@
 			<key>description</key>
 			<string>Registers</string>
 			<key>color</key>
-			<string>Variables</string>
+			<string>KeywordColor</string>
 			<key>strings</key>
 			<dict>
 				<key>A</key>
